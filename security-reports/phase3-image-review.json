@@ -1,0 +1,266 @@
+[
+  {
+    "file": "assets/images/adnan-rahman.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "4f36679801337cca4fde7b74bfe169f9faefa7061076b6a6f26c54f8e563bcff"
+  },
+  {
+    "file": "assets/images/arif-hasan.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "cbe2f1d7887f0d7344c06dcc585c939e5f9dd684c3d3ca6a1f368aacca594075"
+  },
+  {
+    "file": "assets/images/avatar-fallback.svg",
+    "kind": "decorative-vector-or-placeholder",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "8c334c1e27707d54dae5ce3b32e1e743e8c42519145a0336e2f2c51468204d63"
+  },
+  {
+    "file": "assets/images/berlin-postcard.svg",
+    "kind": "decorative-vector-or-placeholder",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "7ad00b032aefbde8a09999e097781a132e94e0d3a7f898c204e3bbfb76e1bd13"
+  },
+  {
+    "file": "assets/images/fahim-chowdhury.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "c6fcb8e10453c50384ab770ede640b826973ef2425c4eba16fe4f565e9fb5ae7"
+  },
+  {
+    "file": "assets/images/farhana-akter.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "4205f60cee04e70de763bce87a0f513d2c3c3287b615e12bc9a849eefcccec75"
+  },
+  {
+    "file": "assets/images/first-chapter.svg",
+    "kind": "decorative-vector-or-placeholder",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "254d9d46b94fcbd95976410489fda258b4f0b19e88ffaf3f451fad3d4e17c1f0"
+  },
+  {
+    "file": "assets/images/imran-kabir.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "4e38a8afd01377c5fdc055e610df9c7bda59f2685231a4f1d88848003a9b1238"
+  },
+  {
+    "file": "assets/images/ishrat-zaman.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "0a6c00352ba6c81893abdb6c67aea94302c3acc575a4d5df35c01d5ceb9ce697"
+  },
+  {
+    "file": "assets/images/journey.svg",
+    "kind": "decorative-vector-or-placeholder",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "7ecc3a4e8df1c9939dab73cfa88d132c67e429ad560437f8e6b76985c7be9d06"
+  },
+  {
+    "file": "assets/images/maliha-noor.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "84c5eec289034e713a9e1ece18dd2e27228c536c994b9fc1d9115a2df9ed57f3"
+  },
+  {
+    "file": "assets/images/mehzabin-rahman.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "3b9de84eca239a69486d4d44bd770429bed92b53a9ae0308c9f16bc93c2ff3a0"
+  },
+  {
+    "file": "assets/images/nabila-khan.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "406566ffcd1421684ad9842a596ad935a43598395633cde1aa5116dd8ce7508c"
+  },
+  {
+    "file": "assets/images/naim-hossain.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "91d1e46721fb1b366fe2fdcc5bdcc0b7e94c8114c23928c12eb89e3fb9d56055"
+  },
+  {
+    "file": "assets/images/nusrat-jahan.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "c4596092cf7da66b6b4f15d8859f48ea7d01ce834963c14aa8c61a6640dccea9"
+  },
+  {
+    "file": "assets/images/priyanka-sen.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "93c9e3e9297a3494a1c38e651e615c26f41be7edee88e947b8764f51697bdb62"
+  },
+  {
+    "file": "assets/images/rafi-islam.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "7780b220cf2e57dba1f73a3909d87d482a50bbd6fd8cdf6e2ee28f77d89ecc0d"
+  },
+  {
+    "file": "assets/images/rayhan-uddin.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "2d3e286f8194e96f7aa6d6ea6476a76432075bcddce69064637590a4c66e6761"
+  },
+  {
+    "file": "assets/images/sadia-akhtar.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "d699b899aee9d3bae1e1e7432e681e4961a726adb0238cda3bbe55ff9b7a75fc"
+  },
+  {
+    "file": "assets/images/sakib-mahmud.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "9237a030df10377a44fd6a9085d1fbd1aea0f66d6af92569e83e975f6fd4ca08"
+  },
+  {
+    "file": "assets/images/samira-haque.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "962c8c9cd8c9e6f0785bbce8f9d909e2dfd37e798d837663ef32c0a1600c0b78"
+  },
+  {
+    "file": "assets/images/shuvo-das.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "3ee404e72b3b1b893fb674b760358bec77e86bc4094527c63bfc8de3301942e0"
+  },
+  {
+    "file": "assets/images/tahmina-sultana.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "448e866bd8588125ccecb5d94307061083c955260d6f2a9f1d7fe5e0c53e27c8"
+  },
+  {
+    "file": "assets/images/tanvir-ahmed.svg",
+    "kind": "reproducible-generated-vector-avatar",
+    "flags": {
+      "activeContent": false,
+      "eventHandler": false,
+      "externalResource": false,
+      "metadata": false
+    },
+    "sha256": "739e06cb570cb378a37b496edd1f0a04d5ac52db3c061695ef1cbbd8a0d5e894"
+  }
+]

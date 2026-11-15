@@ -1,0 +1,354 @@
+{
+  "timeDhaka": "15 November 2026 at 19:01",
+  "source": "D:/Deutschland/German Website/deutschland-pathways-source",
+  "output": "D:/Deutschland/German Website/deutschland-pathways-public",
+  "built": {
+    "output": "D:\\Deutschland\\German Website\\deutschland-pathways-public",
+    "files": 52,
+    "publicRecords": 0
+  },
+  "validation": {
+    "ok": true,
+    "files": 52,
+    "publicRecords": 0,
+    "privateRecordsChecked": 36,
+    "privateAssetsChecked": 0,
+    "issues": []
+  },
+  "tests": {
+    "exit": 0,
+    "summaries": [
+      "138 generated-public DOM, empty-data, control, asset, and project-path HTTP checks passed."
+    ]
+  },
+  "scan": {
+    "workingFiles": 74,
+    "workingCredentialFindings": [],
+    "historyObjects": 72,
+    "historyCredentialFindings": [],
+    "historyPrivateContentFindings": [
+      {
+        "object": "a45649aae73ab41f37a4cd380093abceeeeab1cf",
+        "categories": [
+          "private file content copied",
+          "private record fingerprint"
+        ],
+        "values": "[REDACTED]"
+      }
+    ],
+    "publicFiles": 52,
+    "publicIssues": 0
+  },
+  "protectedFilesUnchanged": true,
+  "head": "a0a6443c5eefe7c72a6259b08d31ed512a308bb6",
+  "branch": "main",
+  "commitCount": 1,
+  "gitPathFindings": [],
+  "status": " M .gitignore\n M README.md\n M SECURITY.md\n M directory/index.html\n M index.html\n M js/app.js\n M js/data.js\n M js/directory.js\n M profile/index.html\n M scripts/check-public-files.js\n M scripts/create-assets.js\n M scripts/export-public.js\n M scripts/public-files.json\n M scripts/serve.js\n M tests/security.js\n M tests/verify.js\n?? data/people.public.js\n?? js/demo-data.js\n?? js/public-data.js\n?? scripts/public-policy.js\n?? tests/public.js\n",
+  "staged": "",
+  "publicHasGit": false,
+  "localPrivateBlob": {
+    "present": true,
+    "reachableRefs": false,
+    "reachableReflogs": false,
+    "tracked": false
+  },
+  "finalSecurityChecks": 126,
+  "finalCliRuns": [
+    {
+      "command": "node tests/security.js",
+      "exit": 0,
+      "summary": [
+        "126 publication, export, Host validation, header, and symlink security checks passed."
+      ]
+    },
+    {
+      "command": "node scripts/check-public-files.js",
+      "exit": 0,
+      "summary": [
+        "Tracked-path check passed. A separate redacted secret/history audit is still required."
+      ]
+    },
+    {
+      "command": "node scripts/check-public-files.js --output D:/Deutschland/German Website/deutschland-pathways-public",
+      "exit": 0,
+      "summary": [
+        "Public output passed: 52 allowlisted files; 0 approved records; no private data detected."
+      ]
+    }
+  ],
+  "finalValidation": {
+    "ok": true,
+    "files": 52,
+    "publicRecords": 0,
+    "privateRecordsChecked": 36,
+    "privateAssetsChecked": 0,
+    "issues": []
+  },
+  "publicInventory": [
+    {
+      "file": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "assets/fonts/poppins-400.woff2",
+      "sha256": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f",
+      "bytes": 7884
+    },
+    {
+      "file": "assets/fonts/poppins-500.woff2",
+      "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446",
+      "bytes": 7748
+    },
+    {
+      "file": "assets/fonts/poppins-600.woff2",
+      "sha256": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149",
+      "bytes": 8000
+    },
+    {
+      "file": "assets/fonts/poppins-700.woff2",
+      "sha256": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526",
+      "bytes": 7816
+    },
+    {
+      "file": "assets/fonts/poppins-800.woff2",
+      "sha256": "60bf0aba6526436f3930c58c12047687fbb6bff4dd180cce4613458ed3439ea2",
+      "bytes": 7824
+    },
+    {
+      "file": "assets/fonts/Poppins-OFL.txt",
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+      "bytes": 4385
+    },
+    {
+      "file": "assets/fonts/SolaimanLipi-OFL.txt",
+      "sha256": "61808fac671f9d45b62ce0ddf50337a614ac966f07e9bd8908f4c8fcb7eec61d",
+      "bytes": 4513
+    },
+    {
+      "file": "assets/fonts/SolaimanLipi.ttf",
+      "sha256": "16bbf4f0140dab8fcf53ab34a923674ea8c9de2f8583d110c7e62b0094a22fe6",
+      "bytes": 249656
+    },
+    {
+      "file": "assets/icons/favicon.svg",
+      "sha256": "48fe85ed7a1efe32a547433aff4eabf179d06a9811be704294ccb2090ea2f692",
+      "bytes": 453
+    },
+    {
+      "file": "assets/icons/logo.svg",
+      "sha256": "7d41ca74f4ba3cdf1de13f34f4116e1e5481e2b7b44a90cee2e6aabbe3ff9c1b",
+      "bytes": 616
+    },
+    {
+      "file": "assets/images/adnan-rahman.svg",
+      "sha256": "4f36679801337cca4fde7b74bfe169f9faefa7061076b6a6f26c54f8e563bcff",
+      "bytes": 1707
+    },
+    {
+      "file": "assets/images/arif-hasan.svg",
+      "sha256": "cbe2f1d7887f0d7344c06dcc585c939e5f9dd684c3d3ca6a1f368aacca594075",
+      "bytes": 1708
+    },
+    {
+      "file": "assets/images/avatar-fallback.svg",
+      "sha256": "8c334c1e27707d54dae5ce3b32e1e743e8c42519145a0336e2f2c51468204d63",
+      "bytes": 1358
+    },
+    {
+      "file": "assets/images/berlin-postcard.svg",
+      "sha256": "7ad00b032aefbde8a09999e097781a132e94e0d3a7f898c204e3bbfb76e1bd13",
+      "bytes": 1105
+    },
+    {
+      "file": "assets/images/fahim-chowdhury.svg",
+      "sha256": "c6fcb8e10453c50384ab770ede640b826973ef2425c4eba16fe4f565e9fb5ae7",
+      "bytes": 1708
+    },
+    {
+      "file": "assets/images/farhana-akter.svg",
+      "sha256": "4205f60cee04e70de763bce87a0f513d2c3c3287b615e12bc9a849eefcccec75",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/images/first-chapter.svg",
+      "sha256": "254d9d46b94fcbd95976410489fda258b4f0b19e88ffaf3f451fad3d4e17c1f0",
+      "bytes": 1534
+    },
+    {
+      "file": "assets/images/imran-kabir.svg",
+      "sha256": "4e38a8afd01377c5fdc055e610df9c7bda59f2685231a4f1d88848003a9b1238",
+      "bytes": 1707
+    },
+    {
+      "file": "assets/images/ishrat-zaman.svg",
+      "sha256": "0a6c00352ba6c81893abdb6c67aea94302c3acc575a4d5df35c01d5ceb9ce697",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/images/journey.svg",
+      "sha256": "7ecc3a4e8df1c9939dab73cfa88d132c67e429ad560437f8e6b76985c7be9d06",
+      "bytes": 3152
+    },
+    {
+      "file": "assets/images/maliha-noor.svg",
+      "sha256": "84c5eec289034e713a9e1ece18dd2e27228c536c994b9fc1d9115a2df9ed57f3",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/images/mehzabin-rahman.svg",
+      "sha256": "3b9de84eca239a69486d4d44bd770429bed92b53a9ae0308c9f16bc93c2ff3a0",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/images/nabila-khan.svg",
+      "sha256": "406566ffcd1421684ad9842a596ad935a43598395633cde1aa5116dd8ce7508c",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/images/naim-hossain.svg",
+      "sha256": "91d1e46721fb1b366fe2fdcc5bdcc0b7e94c8114c23928c12eb89e3fb9d56055",
+      "bytes": 2027
+    },
+    {
+      "file": "assets/images/nusrat-jahan.svg",
+      "sha256": "c4596092cf7da66b6b4f15d8859f48ea7d01ce834963c14aa8c61a6640dccea9",
+      "bytes": 1775
+    },
+    {
+      "file": "assets/images/priyanka-sen.svg",
+      "sha256": "93c9e3e9297a3494a1c38e651e615c26f41be7edee88e947b8764f51697bdb62",
+      "bytes": 1958
+    },
+    {
+      "file": "assets/images/rafi-islam.svg",
+      "sha256": "7780b220cf2e57dba1f73a3909d87d482a50bbd6fd8cdf6e2ee28f77d89ecc0d",
+      "bytes": 2027
+    },
+    {
+      "file": "assets/images/rayhan-uddin.svg",
+      "sha256": "2d3e286f8194e96f7aa6d6ea6476a76432075bcddce69064637590a4c66e6761",
+      "bytes": 1708
+    },
+    {
+      "file": "assets/images/sadia-akhtar.svg",
+      "sha256": "d699b899aee9d3bae1e1e7432e681e4961a726adb0238cda3bbe55ff9b7a75fc",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/images/sakib-mahmud.svg",
+      "sha256": "9237a030df10377a44fd6a9085d1fbd1aea0f66d6af92569e83e975f6fd4ca08",
+      "bytes": 1708
+    },
+    {
+      "file": "assets/images/samira-haque.svg",
+      "sha256": "962c8c9cd8c9e6f0785bbce8f9d909e2dfd37e798d837663ef32c0a1600c0b78",
+      "bytes": 1775
+    },
+    {
+      "file": "assets/images/shuvo-das.svg",
+      "sha256": "3ee404e72b3b1b893fb674b760358bec77e86bc4094527c63bfc8de3301942e0",
+      "bytes": 1707
+    },
+    {
+      "file": "assets/images/tahmina-sultana.svg",
+      "sha256": "448e866bd8588125ccecb5d94307061083c955260d6f2a9f1d7fe5e0c53e27c8",
+      "bytes": 1985
+    },
+    {
+      "file": "assets/images/tanvir-ahmed.svg",
+      "sha256": "739e06cb570cb378a37b496edd1f0a04d5ac52db3c061695ef1cbbd8a0d5e894",
+      "bytes": 1817
+    },
+    {
+      "file": "css/animations.css",
+      "sha256": "ecbe4b27e90eb7e89c26f7059c8fcb5d9be169425ff8ab9b09df3e8835f90ed1",
+      "bytes": 692
+    },
+    {
+      "file": "css/components.css",
+      "sha256": "7a17a13b1051870dedfe8b586bbd15b20b4aa6d733f43e19e9c4defa8502e2f2",
+      "bytes": 9482
+    },
+    {
+      "file": "css/main.css",
+      "sha256": "61aa1e16a8f3cdc9545fcd016c650ec5eb6e545d14780ecfd77601aec08f1ea2",
+      "bytes": 18788
+    },
+    {
+      "file": "css/responsive.css",
+      "sha256": "5b44abe98c4e77e621bc17d35f17be017041ebd060f1bda7374b7007c8696392",
+      "bytes": 8939
+    },
+    {
+      "file": "data/people.public.js",
+      "sha256": "091706780aa75850270d1e8f3022909564106cead558a85950780749308e3b6d",
+      "bytes": 191
+    },
+    {
+      "file": "directory/index.html",
+      "sha256": "8e1a78e95464adca671b1aea54f501d3f6861c959c576309b55652532e0a2b43",
+      "bytes": 5775
+    },
+    {
+      "file": "directory.html",
+      "sha256": "8dac857517e62f81ba9ce5f69b6d824aafefb0725ba89fb5fe41111a5d9f0fcf",
+      "bytes": 356
+    },
+    {
+      "file": "index.html",
+      "sha256": "b9164b138b1f14f10ff42802e4bc88aaf9dfa209c2bb4ee64218d7d4f59af23d",
+      "bytes": 2078
+    },
+    {
+      "file": "js/app.js",
+      "sha256": "06cd0315c010deedca24546e20bf725392b8e0a8ed6c3e47dff7462c63c9f87d",
+      "bytes": 13281
+    },
+    {
+      "file": "js/data.js",
+      "sha256": "fee6b37927aefd378c5c78e5d629b65d374bf573ec11b819348d6cfeac7d1492",
+      "bytes": 2254
+    },
+    {
+      "file": "js/directory.js",
+      "sha256": "6b740e6d89b7aa66547fc6d7c4a49103685331395822e31926ed75ea440df5db",
+      "bytes": 6586
+    },
+    {
+      "file": "js/legacy-route.js",
+      "sha256": "de128fa22f2d04db0828a3a6322d24c0d879aeea39edc1a1422e85fdf3aa26a4",
+      "bytes": 387
+    },
+    {
+      "file": "js/profile.js",
+      "sha256": "a8f28cdbd9b61a05bd58194392c520dab7036ad83cd83bacd828e324a2dbd725",
+      "bytes": 5448
+    },
+    {
+      "file": "js/public-data.js",
+      "sha256": "5d929a932c72124726b74b4a7822a91e3d94a092e88bff75252f450ce8e9d813",
+      "bytes": 655
+    },
+    {
+      "file": "js/routes.js",
+      "sha256": "dd8c510c6fcd842cab81d347fa8b25e65a3d9d1257babd13201ce2c2b0d3afc6",
+      "bytes": 1372
+    },
+    {
+      "file": "profile/index.html",
+      "sha256": "ffdc0cdf21d1b59db6a00891920b862acdeda5395b166cd444973dc669e410b7",
+      "bytes": 2357
+    },
+    {
+      "file": "profile.html",
+      "sha256": "a339a76fcbb9b870075980383d3c135c57e8256c6cc56b2867c79d02532e1753",
+      "bytes": 341
+    }
+  ],
+  "postScan": {
+    "files": 74,
+    "credentialFindings": []
+  }
+}
